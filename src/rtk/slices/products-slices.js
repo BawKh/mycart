@@ -20,5 +20,5 @@ const productsSlicer = createSlice({
   },
 });
 
-export const {} = productsSlicer.actions;
+// export const {} = productsSlicer.actions;
 export default productsSlicer.reducer;
